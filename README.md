@@ -22,7 +22,7 @@
    hdfs dfs -mkdir /data
    hdfs dfs -ls /
    
-   hdfs dfs -put /Users/dmitrijzigunov/Documents/DataStorage/CarAccidents/November2022.json /data
+   hdfs dfs -put ./data/November2022.json /data
    hdfs dfs -put ...
    ```
 
